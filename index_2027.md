@@ -7,8 +7,7 @@ Bachelors in Accounting, Certificate of Data Science
 
 <div id="webaddress">
 <a href="meg.gardner2019@gmail.com">meg.gardner2019@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html"> Accounting Program</a>
-</div>
+|
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
